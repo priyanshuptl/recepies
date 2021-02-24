@@ -15,3 +15,6 @@ React Native App to show recepies of delicious meals. It has Screens mentioned b
   
 ##  Favorites Screen:
   <img src="/assets/favorites.jpg" alt="Favorites Screen" width="300"/>
+
+##  Filters Screen:
+  <img src="/assets/filters.jpg" alt="Filters Screen" width="300"/>
