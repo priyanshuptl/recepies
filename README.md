@@ -1,5 +1,7 @@
 # Recepies
 React Native App to show recepies of delicious meals. It has Screens mentioned below:
+
+<div style="display:flex; flex-direction:row; flex-wrap:wrap;" >
 <div style="display:flex; flex-direction:column">
   Meal Categories Screen:
   <br/><br/>
@@ -24,4 +26,5 @@ React Native App to show recepies of delicious meals. It has Screens mentioned b
   Favorites Screen:
   <br/><br/>
   <img src="/assets/favorites.jpg" alt="Favorites Screen" width="300"/>
+</div>
 </div>
